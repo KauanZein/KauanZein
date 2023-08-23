@@ -14,7 +14,7 @@
 <div>
  <a href="https://github.com/KauanZein"> 
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauanZein&show_icons=true&theme=radical">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanZein&layout=compact&langs-count=168&theme=radical">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanZein&layout=compact&langs-count=168&theme=radical">
    </a>
 </div> 
 
