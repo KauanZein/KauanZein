@@ -20,7 +20,7 @@
 
 
 ##
-<h3> Ferramentas de uso <h3> 
+<h3> 🧰 Ferramentas de uso <h3> 
 <div>
   <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -33,7 +33,7 @@
   
  ##
  
- <h3> Social <h3>
+ <h3> 🙋‍♂️ Social <h3>
                   
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-zein/)
 <a href = "mailto:kauanzein@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
